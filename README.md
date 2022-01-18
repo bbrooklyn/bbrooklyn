@@ -2,5 +2,5 @@
 
  
 - A Level Computer Science.
-- I'm interested in networking, data science and cyber security.
+- I'm interested in networking and cyber security.
 - Currently contributing on various projects.
