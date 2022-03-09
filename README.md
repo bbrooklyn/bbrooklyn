@@ -4,7 +4,7 @@
 - Interested in networking, infrastructure and web development.
 - Open source enthusiast!
 #
- Working on open source image host (in beta) [kythi](https://kythi.com) | [kythi org](https://github.com/kythix). Learning & experience project.
+Doing stuff
 
 #
 
