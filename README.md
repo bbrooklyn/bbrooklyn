@@ -4,8 +4,9 @@
 - Interested in networking, infrastructure and web development.
 - Open source enthusiast!
 #
-Doing stuff
-
+Currently Learning: 
+* C++
+* Data Types, Data Structures and Algorithms
 #
 
  <img class="img" src="https://lanyard.cnrad.dev/api/287628873309618176" />
