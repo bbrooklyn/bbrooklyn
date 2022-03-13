@@ -3,8 +3,10 @@
 - A Level Computer Science.
 - Interested in networking, infrastructure and web development.
 - Open source enthusiast!
+- Using Python day-to-day.
+
 #
-Currently Learning: 
+#### Currently Learning: 
 * C++
 * Data Types, Data Structures and Algorithms
 #
