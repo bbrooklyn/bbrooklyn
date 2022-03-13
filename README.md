@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=EBEBEB&height=40&lines=Hello%2C+I'm+Brooklyn)](https://git.io/typing-svg)
+# Hello, I'm Brooklyn :wave:
 - A Level Computer Science.
 - Interested in networking, infrastructure and web development.
 - Open source enthusiast!
