@@ -7,7 +7,11 @@
 #
 #### Currently Learning: 
 * C++
-* Data Types, Data Structures and Algorithms
+* Data Types, Data Structures and Algorithms.
+
+#### Working on:
+* SRT Test for Applied Science.
+* Contributing to Kythi open source cloud image hosting.
 #
 
  <img class="img" src="https://lanyard.cnrad.dev/api/287628873309618176" />
