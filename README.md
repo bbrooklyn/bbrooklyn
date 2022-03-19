@@ -1,13 +1,14 @@
 # Hello, I'm Brooklyn :wave:
-- A Level Computer Science.
-- Interested in networking, infrastructure and web development.
-- Open source enthusiast!
-- Using Python day-to-day.
 
+I'm a 16 year old in college studying: A Level Computer Science & Double Applied Science. My interests are in networking, infrastructure and web development.
+
+
+I'm an open source enthusiast and occasionally make contributions or provide help in my spare time. The language I use day-to-day is Python, but I'm currently learning C++.
 #
-#### Currently Learning: 
+#### Learning: 
 * C++
 * Data Types, Data Structures and Algorithms.
+* Python Sockets, Networking and Multithreading.
 
 #### Working on:
 * SRT Test for Applied Science.
