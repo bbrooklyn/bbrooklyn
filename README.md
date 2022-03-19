@@ -3,7 +3,7 @@
 I'm a 16 year old in college studying: A Level Computer Science & Double Applied Science. My interests are in networking, infrastructure and web development.
 
 
-I'm an open source enthusiast and occasionally make contributions or provide help in my spare time. The language I use day-to-day is Python, but I'm currently learning C++.
+I'm also an open source enthusiast and occasionally make contributions or provide help in my spare time. The language I use day-to-day is Python, but I'm currently learning C++. Feel free to contact me on Discord; **Brooklyn#4333**
 #
 #### Learning: 
 * C++
