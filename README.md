@@ -1,5 +1,5 @@
 # Hello, I'm Brooklyn :wave:
-
+ <img class="img" src="https://www.codewars.com/users/brookl1/badges/small" />
 I'm a 16 year old in college studying: A Level Computer Science & Double Applied Science. My interests are in networking, infrastructure and web development.
 
 
