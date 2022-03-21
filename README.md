@@ -13,6 +13,4 @@ I'm also an open source enthusiast and occasionally make contributions or provid
 #### Working on:
 * SRT Test for Applied Science.
 * Contributing to Kythi open source cloud image hosting.
-#
 
- <img class="img" src="https://lanyard.cnrad.dev/api/287628873309618176" />
