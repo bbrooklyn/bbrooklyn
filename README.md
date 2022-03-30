@@ -1,7 +1,5 @@
-<h1> Hello, I'm Brooklyn :wave:</h1>
-
- <img class="img" src="https://www.codewars.com/users/bbrooklyn/badges/small" />
-<p>I'm a 16 year old in college studying: A Level Computer Science & Double Applied Science. My interests are in networking, infrastructure and web development.</p>
+<img class="img" src="https://www.codewars.com/users/bbrooklyn/badges/small" />
+<p>Hi :wave: my names Brooklyn, I'm a 16 year old in college studying: A Level Computer Science & Double Applied Science. My interests are in networking, infrastructure and web development.</p>
 
 <br>
 
