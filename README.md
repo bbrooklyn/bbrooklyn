@@ -1,5 +1,5 @@
 # Hello:wave:
-A Level Computer Science student from the UK. I'm currently building my portfolio & studying for future exams. Send a friend request to me on Discord: <strong>Brooklyn#4333</strong> if you want to talk.
+Computer Science student from the UK. I'm currently building my portfolio & studying for future exams. Send a friend request to me on Discord: <strong>Brooklyn#4333</strong> if you want to talk.
 
 
 
