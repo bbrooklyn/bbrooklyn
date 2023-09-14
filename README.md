@@ -1,4 +1,4 @@
-## Hello, I'm a BSc Computer Science Student from the UK
+## Hello👋, I'm a first year Computer Science student from the UK
 *Contact me on Discord at: brooklyn0*
 
 ### Languages
