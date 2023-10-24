@@ -4,3 +4,5 @@
 ### Languages
 Python, C++, JavaScript (TypeScript, React, Gatsby), CSS (Tailwind, Emotion), HTML.
 
+Currently learning Java as part of my degree.
+
