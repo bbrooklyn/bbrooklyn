@@ -6,3 +6,5 @@ Python, C++, JavaScript (TypeScript, React, Gatsby), CSS (Tailwind, Emotion), HT
 
 Currently learning Java as part of my degree.
 
+### Contact
+[me@brooklynjl.com](mailto:me@brooklynjl.com?subject=[GitHub])
