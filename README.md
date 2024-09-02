@@ -1,4 +1,4 @@
-## [Hello, I'm a first year Computer Science student from the UK](https://brooklynjl.com)
+## [Hello, I'm Student from the UK](https://brooklynjl.com)
 
 
 ### Languages
